@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Cosmos (21.0.0)
+  - iOSDropDown (0.3.4)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftyJSON (5.0.0)
+  - YoutubePlayer-in-WKWebView (0.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - iOSDropDown
+  - ReachabilitySwift
+  - SDWebImage
+  - SwiftyJSON
+  - YoutubePlayer-in-WKWebView (~> 0.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - iOSDropDown
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftyJSON
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Cosmos: 3dfb6e4ba48bd48b8c9aa2a77048ae11ed114f96
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YoutubePlayer-in-WKWebView: 4dad12b3ece938a6456fa4374df78942f88b485a
+
+PODFILE CHECKSUM: b4a7edf1f13c57ae81c908c035d903018d5616e2
+
+COCOAPODS: 1.8.4
